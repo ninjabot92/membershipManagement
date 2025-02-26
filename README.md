@@ -1,2 +1,2 @@
 # membershipManagement
-Manage memberships
+Manage memberships for businesses
