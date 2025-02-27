@@ -1,0 +1,20 @@
+To process credit card payments through Gymdesk, you will need to set up an account with one of their supported payment processors. Gymdesk does not handle payment processing directly, but integrates with several payment providers.
+
+The supported payment processors for Gymdesk include:
+
+- Stripe
+- Square
+- Authorize.net
+- GoCardless
+
+You'll need to choose one of these providers and set up an account with them. Once you have an account, you can connect it to your Gymdesk account through the Payment Processor section in your billing settings.
+
+Each processor has its own features and benefits:
+
+Square and Stripe allow you to quickly start processing payments without opening a merchant account.
+
+Authorize.net can be used with most existing merchant accounts and offers competitive rates through Gymdesk's partner, Friendly Payments.
+
+GoCardless is a good option if you prefer to process direct bank debits instead of credit card payments.
+
+After connecting your chosen payment processor, Gymdesk will securely handle the integration, allowing you to collect payment information and process payments through your account without directly storing sensitive financial data.
